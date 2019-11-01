@@ -110,12 +110,13 @@ body {
 }
 /*--------------Typography--------------------------------------*/
 p {
-	font-size: 11px;
-	line-height: 24px;
-	padding-bottom: 10px;
-	font-weight: 500;
-	color: #878C9F;
-	font-family: 'Poppins', sans-serif;
+	font-size: 13px;
+    line-height: 24px;
+    padding-bottom: 10px;
+    font-weight: 100;
+    color: #878C9F;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
 }
 blockquote {
 	float: left;
@@ -667,7 +668,7 @@ nav.nav-inner {
 }
 .scroll-nav li a {
 	float: left;
-	padding: 13px 35px;
+	padding: 13px 20px;
 	color: #8B8B8B;
 	font-weight: 600;
 	font-size: 10px;

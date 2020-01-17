@@ -2135,7 +2135,7 @@ section.parallax-section .section-title:before {
 }
 .collage-image-title {
 	position: absolute;
-	top: 80px;
+	top: 40px;
 	left: -20px;
 	font-size: 12px;
 	text-transform: uppercase;

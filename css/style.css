@@ -53,7 +53,7 @@
 
 .titTeam { 
 	text-align: left; 
-	font-size: 13px;
+	font-size: 16px;
 	font-weight: 700;
 	font-family: 'Poppins', sans-serif;
 	position: relative; 
@@ -169,7 +169,7 @@ body {
 }
 /*--------------Typography--------------------------------------*/
 p {
-	font-size: 13px;
+	font-size: 16px;
     line-height: 24px;
     padding-bottom: 10px;
     font-weight: 100;
@@ -2049,7 +2049,7 @@ section.parallax-section .section-title:before {
 	width: 100%;
 	padding-top: 10px;
 	color: #999;
-    font-size: 11px;
+    font-size: 14px;
     line-height: 24px;
     padding-bottom: 10px;
     font-weight: 500;
@@ -6254,14 +6254,17 @@ section.parallax-section .section-title:before {
 .scroll-nav-wrap-btn {
 	display: none;
 }
+
+/*------ Responsive ------------------------------------------------*/
+
 @media only screen and (max-width: 1220px) {
 	.filter-title {
 		display: none;
 	}
-	p { font-size: 16px; }
+	
 }
 @media only screen and (max-width: 1064px) {
-	p { font-size: 16px; }
+	
 	.main-header {
 		width: 100%;
 		height: 80px;
@@ -6675,7 +6678,7 @@ section.parallax-section .section-title:before {
 	padding: 2%;
 	float: left;
 }
-	p { font-size: 16px; }
+	
 }
 @media only screen and (max-width: 564px) {
 	.teamSec {
@@ -6683,7 +6686,7 @@ section.parallax-section .section-title:before {
 	padding: 2%;
 	float: left;
 }
-	p { font-size: 16px; }
+	
 	.half-hero-wrap {
 		top: 25%;
 	}

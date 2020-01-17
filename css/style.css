@@ -6258,6 +6258,7 @@ section.parallax-section .section-title:before {
 	.filter-title {
 		display: none;
 	}
+	p { font-size: 16px; }
 }
 @media only screen and (max-width: 1064px) {
 	p { font-size: 16px; }

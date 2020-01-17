@@ -23,6 +23,65 @@
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900|Poppins:400,500,600,700,800,900|Titillium+Web:400,600,700&subset=cyrillic,cyrillic-ext,devanagari,latin-ext,vietnamese');
 
+/*-------------My Code---------------------------------------*/
+
+
+#expirence {
+	padding-bottom: 0px;
+}
+
+.fet_pr-carousel {
+	padding-bottom: 100px
+}
+
+#ourTeam { width: 100%; margin-top: 10%;}
+
+.teamSec {
+	width: 28.33%;
+	padding: 2.5%;
+	float: left;
+}
+.imgTeam { width: 100%; }
+
+.namTeam { 
+	text-align: left; 
+	font-size: 18px;
+	font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+	position: relative; 
+	padding-top: 20px; }
+
+.titTeam { 
+	text-align: left; 
+	font-size: 13px;
+	font-weight: 700;
+	font-family: 'Poppins', sans-serif;
+	position: relative; 
+	padding: 5px 0 20px 0;
+	opacity:0.5;}
+
+
+.parTeam {
+	text-align: left; 
+}
+
+.headerTeam {
+    text-align: left;
+    font-weight: 700;
+    font-size: 34px;
+    color: 
+    #292929;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 30px;
+    position: relative;
+	
+}
+.parFoot {
+	text-align: left; 
+	font-size: 11px;
+	line-height: 15px;
+}
+
 /*-------------General Style---------------------------------------*/
 
 html {
@@ -3595,10 +3654,10 @@ section.parallax-section .section-title:before {
 }
 .fet_pr-carousel-title {
 	position: absolute;
-	left: 100px;
+	left: 50px;
 	width: 50%;
 	z-index: 11;
-	top: 30%;
+	top: 60%;
 }
 .fet_pr-carousel-title-item {
 	max-width: 500px;
@@ -6797,9 +6856,9 @@ section.parallax-section .section-title:before {
 }    
 
 .Alerta-clients div {
-    width: 214px;
+    width: 200px;
     display: inline-block;
-    margin: 20px;
+    margin: 5px;
     padding: 30px;
 }
 

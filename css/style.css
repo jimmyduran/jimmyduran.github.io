@@ -6260,11 +6260,7 @@ section.parallax-section .section-title:before {
 	}
 }
 @media only screen and (max-width: 1064px) {
-	/*.teamSec {
-	width: 98%;
-	padding: 2%;
-	float: left;
-}*/
+	p { font-size: 16px; }
 	.main-header {
 		width: 100%;
 		height: 80px;
@@ -6678,6 +6674,7 @@ section.parallax-section .section-title:before {
 	padding: 2%;
 	float: left;
 }
+	p { font-size: 16px; }
 }
 @media only screen and (max-width: 564px) {
 	.teamSec {
@@ -6685,6 +6682,7 @@ section.parallax-section .section-title:before {
 	padding: 2%;
 	float: left;
 }
+	p { font-size: 16px; }
 	.half-hero-wrap {
 		top: 25%;
 	}

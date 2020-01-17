@@ -6678,6 +6678,11 @@ section.parallax-section .section-title:before {
 	padding: 2%;
 	float: left;
 }
+	.Alerta-clients img {
+    width: 100%;
+    height: auto;
+}    
+
 	
 }
 @media only screen and (max-width: 564px) {
@@ -6692,7 +6697,7 @@ section.parallax-section .section-title:before {
 }    
 
 .Alerta-clients div {
-    width: 150px;
+    width: 100px;
     display: inline-block;
     margin: 5px;
     padding: 30px;

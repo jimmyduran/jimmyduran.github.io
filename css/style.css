@@ -6686,6 +6686,17 @@ section.parallax-section .section-title:before {
 	padding: 2%;
 	float: left;
 }
+	.Alerta-clients img {
+    width: 100%;
+    height: auto;
+}    
+
+.Alerta-clients div {
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+    padding: 30px;
+}
 	
 	.half-hero-wrap {
 		top: 25%;

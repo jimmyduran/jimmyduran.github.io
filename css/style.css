@@ -6518,7 +6518,7 @@ section.parallax-section .section-title:before {
 	section.parallax-section.parallax-sec-half-right .overlay,
 	section.parallax-section.parallax-sec-half-right:before,
 	section.parallax-section.parallax-sec-half-left:before {
-		width: 70%;
+		width: 100%;
 	}
 	.piechart,
 	.process-wrap li,

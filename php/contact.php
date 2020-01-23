@@ -20,7 +20,7 @@ if(trim($name) == '') {
 	echo '<div class="error_message">You must enter your name.</div>';
 	exit();
 } else if(trim($email) == '') {
-	echo '<div class="error_message"> Please enter a valid email address.</div>';
+	echo '<div class="error_message">Please enter a valid email address.</div>';
 	exit();
 } else if(trim($phone) == '') {
 	echo '<div class="error_message">Please enter a valid phone number.</div>';
@@ -100,4 +100,3 @@ if(mail($address, $e_subject, $msg, $headers)) {
 	echo 'ERROR!';
 
 }
-?>

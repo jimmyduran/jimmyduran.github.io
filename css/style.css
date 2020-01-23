@@ -6934,10 +6934,10 @@ and (-webkit-device-pixel-ratio : 2) {
 }    
 	
 .Alerta-clients div {
-    width: 146px;
+    width: 130px;
     display: inline-block;
     margin: 5px;
-    padding: 13px;
+    padding: 10px;
 }
 
 .Alerta-services img {

@@ -6832,7 +6832,8 @@ section.parallax-section .section-title:before {
 		padding:10px 0;
 	}
 }
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (min-device-width : 601px) 
+and (max-device-width : 2560px) and (-webkit-min-device-pixel-ratio: 2) {
 	.bg {
 		background-attachment: scroll !important;
 		-webkit-background-size: cover;
@@ -6848,7 +6849,7 @@ section.parallax-section .section-title:before {
 .Recipe-box {
     text-align: left;
     color: #fff;
-    padding: 20p;
+    padding: 20px;
 }
 
 .Recipe-box ul li {
@@ -6924,8 +6925,8 @@ h2.new-h2 span {
 }
 
 @media only screen 
-and (min-device-width : 375px) 
-and (max-device-width : 812px)
+and (min-device-width : 320px) 
+and (max-device-width : 600px)
 and (-webkit-device-pixel-ratio : 2) { 
 
 .Alerta-clients img {

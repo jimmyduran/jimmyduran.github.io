@@ -6926,7 +6926,7 @@ h2.new-h2 span {
 @media only screen 
 and (min-device-width : 375px) 
 and (max-device-width : 812px)
-and (-webkit-device-pixel-ratio : 3) { 
+and (-webkit-device-pixel-ratio : 2) { 
 
 .Alerta-clients img {
     width: 100%;

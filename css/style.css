@@ -6844,6 +6844,11 @@ and (max-device-width : 2560px) and (-webkit-min-device-pixel-ratio: 2) {
 /*Custom Css starts here*/
 .new-logo-1 {
     text-align: left;
+	
+}
+
+.logoImage {
+	width: 380px;
 }
 
 .Recipe-box {
